@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent</string>
+    <string name="phone">Phone</string>
+    <string name="wi_fi">Wi fi</string>
+    <string name="sms">Sms</string>
+    <string name="web">Web</string>
+    <string name="location">Location</string>
+    <string name="bluetooth">Bluetooth</string>
+    <!--    <string name="sms">Sms</string>-->
+</resources>
